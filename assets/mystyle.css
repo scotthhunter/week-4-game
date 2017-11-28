@@ -1,0 +1,26 @@
+
+body {
+    background-color: lightblue;
+background-image: url("https://st2.depositphotos.com/1192512/5197/v/950/depositphotos_51979949-stock-illustration-colorful-abstract-crystal-background.jpg");
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+#random{
+  
+font-size: 50px;
+border: 1px solid #c3c3c3;
+
+
+
+}
